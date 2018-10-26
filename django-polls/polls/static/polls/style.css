@@ -1,0 +1,13 @@
+#question_text {
+    list-style: none;	
+}
+
+li a {
+    color: green;
+    font-size: large;
+}
+    
+
+body {
+    background: white url("images/beige background.jpg") no-repeat;
+}
